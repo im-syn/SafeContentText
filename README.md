@@ -47,7 +47,7 @@ A Python toolkit and web API for detecting “bad” content (profanity, hate sp
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your‑username/SafeContentText.git
+   git clone https://github.com/im-syn/SafeContentText.git
    cd SafeContentText
    ```
 2. **Create & activate a virtual environment**
